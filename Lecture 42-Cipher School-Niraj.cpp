@@ -1,0 +1,2 @@
+/*in this lecture we discussed about pseudo code and we learned that the code is unaffected by device 
+and other outer interference where pseudo code is number of lines that get executed when the code runs*/
