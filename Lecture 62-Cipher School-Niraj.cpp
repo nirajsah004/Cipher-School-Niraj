@@ -1,0 +1,4 @@
+/*
+Merge sort is used to sort an data using divide and conqure technique in which we divide the data into small parts
+so that we can solve solve problems then solve them that will lead to the solution
+*/
