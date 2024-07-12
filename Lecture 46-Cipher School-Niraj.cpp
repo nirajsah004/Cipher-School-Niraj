@@ -1,0 +1,4 @@
+/*
+we use greedy approach in searching in list or performing a task
+a problem may have more than one greedy approach and we need to find the one that is most efficient approach
+*/
