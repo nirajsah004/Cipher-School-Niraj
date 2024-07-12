@@ -1,0 +1,4 @@
+/*data structure is used to store data and retrieve data easily storing data is important because if not stored 
+correctly it will affect the retrival time of the data from repository
+
+Array is also a data structure*/
