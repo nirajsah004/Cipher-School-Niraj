@@ -1,0 +1,4 @@
+/*
+In this approach we are using the end time as criteria because we can attend more classes that way
+we will sort them in ascending order based on end time and compare the start time to get our answer
+*/
